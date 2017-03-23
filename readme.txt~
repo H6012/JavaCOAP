@@ -11,13 +11,5 @@ EA
    ���Hello World!
 
 
-To Compile the Java Client, edit the JAVA file to set the correct ipv6 address of the Server. 
-
-javac *.java
-java UDPClient
-
-
-
-
 
 
